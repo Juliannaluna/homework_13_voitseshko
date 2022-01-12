@@ -44,7 +44,6 @@ ul {
 	display: none;
 }
 
-
 /*Carousel */
 
 .slick-slide img {
@@ -133,7 +132,6 @@ ul {
 	font-size: 28px;
 	font-family: Montserrat;
 }
-
 
 @media screen and (max-width: 1024px) {
 	#container {
@@ -370,7 +368,4 @@ ul {
 		margin-top: 42px;
 	}
 
-	
-
-	
 }
